@@ -5,6 +5,9 @@ contributor:
     agent_name: Teittinen, Heikki
     gutenberg_agent_id: '58125'
     url: http://www.gutenberg.org/2009/agents/58125
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thurston, E. Temple (Ernest Temple)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7023
     wikipedia: https://en.wikipedia.org/wiki/E._Temple_Thurston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75750#Suloisen-jarjettomyyden-kaupunki
 gutenberg_issued: '2025-03-30'
 gutenberg_type: Text
 identifiers:
